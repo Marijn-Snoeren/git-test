@@ -1,9 +1,6 @@
 {
-  "name": "@marijn-snoeren/git-test",
-  "version": "1.0.0",
-  "publishConfig": {
-    "access": "public"
-  },
+  "name": "git-test",
+  "version": "1.0.2",
   "description": "A small library that takes an array as input and returns a new array that is shuffled.",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
